@@ -1,0 +1,8 @@
+model.new/random.walks.txt filter=lfs diff=lfs merge=lfs -text
+model.new/symbol2vec.bin filter=lfs diff=lfs merge=lfs -text
+model.new/symbol2vec.cbow.bin filter=lfs diff=lfs merge=lfs -text
+model.new/symbol2vec.cbow.vec filter=lfs diff=lfs merge=lfs -text
+model.new/symbol2vec.vec filter=lfs diff=lfs merge=lfs -text
+model.new/symbol2vec.words filter=lfs diff=lfs merge=lfs -text
+model.old/model.bin filter=lfs diff=lfs merge=lfs -text
+model.old/model.vec filter=lfs diff=lfs merge=lfs -text
